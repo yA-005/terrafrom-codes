@@ -9,3 +9,7 @@ resource "azurerm_virtual_network" "vnet" {
     Team = "DevOps"
   }
 }
+
+terraform apply
+terrafrom show 
+terrafrom state list
